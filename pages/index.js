@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Eat @ <br></br> Ann Arbor
+          🍴 Ann Arbor
         </h1>
         <div className={styles.questiongroup}>
           <h2 className={styles.question}>Day</h2>
