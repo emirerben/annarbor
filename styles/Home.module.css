@@ -77,6 +77,8 @@
   justify-content: left;
   max-width: 800px;
   flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
 }
 
 .card {
@@ -118,6 +120,9 @@
   .grid {
     width: 100%;
     flex-direction: row;
+  }
+  .card{
+    margin: 0.5rem;
   }
 }
 
